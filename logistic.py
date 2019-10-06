@@ -27,7 +27,7 @@ data.shape
 
 
 # 查看前10行数据
-data.head(20)
+data.head(10)
 
 
 # 提取特征值
